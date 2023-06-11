@@ -76,32 +76,32 @@ Visual Studio Code&logoColor=white" />
 
 ## ERD Digaram
 
-![ERD-Diagram](/README_IMG/DB/ERD%20Diagram.png)
+![ERD-Diagram](/readme_img/DB/ERD%20Diagram.png)
 
 ## Class Diagram
 
 ### attraction (관광지)
 
-![attraction](/README_IMG/Class_Diagram/class_diagram_01.PNG)
+![attraction](/readme_img/Class_Diagram/class_diagram_01.PNG)
 
 ### noitce (공지사항)
 
-![notice](/README_IMG/Class_Diagram/class_diagram_03.PNG)
+![notice](/readme_img/Class_Diagram/class_diagram_03.PNG)
 
 ### hotplace (핫 플레이)
 
-![notice](README_IMG/Class_Diagram/class_diagram_04.PNG)
+![notice](readme_img/Class_Diagram/class_diagram_04.PNG)
 
 ### plan (여행 계획)
 
-![plan](README_IMG/Class_Diagram/class_diagram_05.PNG)
+![plan](readme_img/Class_Diagram/class_diagram_05.PNG)
 
 ### user (사용자)
 
-![user](README_IMG/Class_Diagram/class_diagram_06.PNG)
+![user](readme_img/Class_Diagram/class_diagram_06.PNG)
 
 ### etc (기타 설정 파일)
 
-![etc](/README_IMG/Class_Diagram/class_diagram_02.PNG)
+![etc](/readme_img/Class_Diagram/class_diagram_02.PNG)
 
 ---
