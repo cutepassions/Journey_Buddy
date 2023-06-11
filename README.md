@@ -71,6 +71,11 @@ Visual Studio Code&logoColor=white" />
   - 공지사항
 
 ---
+## 프로젝트 설계서 및 ppt
+- [설계서](https://1drv.ms/b/s!AobPN9o4gUEm-BmQWgMroxnS6eJk?e=HKT8CA)
+- [ppt](https://1drv.ms/b/s!AobPN9o4gUEm-BqTYvv1QSp3W6Tr?e=y4dLmM)
+
+---
 
 ## 요구사항 명세서
 
