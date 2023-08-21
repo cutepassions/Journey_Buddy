@@ -7,7 +7,6 @@
 - 연주원 (팀장)
 - 진병욱 (팀원)
 
----
 
 ## 프로젝트 개요
 
@@ -16,7 +15,6 @@
 - 해당 DB에서 관광지 데이터를 추출하여 필요한 데이터 표시
 - 관광지 검색 및 여행 계획, 핫 플레이스 공유 기능을 가진 여행 테마의 웹 사이트 제작
 
----
 
 ## 프로젝트 목표
 
@@ -27,7 +25,6 @@
 - 카카오 API를 활용한 카카오 맵
 - 네이버 API를 활용한 네이버 로그인
 
----
 
 ## 사용 기술
 
@@ -59,7 +56,6 @@ Visual Studio Code&logoColor=white" />
 <img src="https://img.shields.io/badge/Work Bench [8.0]-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 
----
 
 ## 역할
 
@@ -77,7 +73,6 @@ Visual Studio Code&logoColor=white" />
 - [설계서](https://1drv.ms/b/s!AobPN9o4gUEm-BmQWgMroxnS6eJk?e=HKT8CA)
 - [ppt](https://1drv.ms/b/s!AobPN9o4gUEm-BqTYvv1QSp3W6Tr?e=y4dLmM)
 
----
 
 ## 요구사항 명세서
 
@@ -111,4 +106,3 @@ Visual Studio Code&logoColor=white" />
 
 ![etc](/readme_img/Class_Diagram/class_diagram_02.PNG)
 
----
