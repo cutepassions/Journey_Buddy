@@ -11,11 +11,11 @@
 
 ## 👩🏻 🧑🏻 팀원
 
-- 연주원 (팀장)
+- 연주원 (팀장) Front & Back
   - 로그인 및 회원관리
   - 마이페이지
   - 핫 플레이스
-- 진병욱 (팀원)
+- 진병욱 (팀원) Front & Back
   - 관광지
   - 여행 계획
   - 공지사항
@@ -61,7 +61,11 @@ Visual Studio Code&logoColor=white" />
 
 ## 💶 시스템 아키텍처
 
+<div align="center">
+
 ![img](readme_img/시스템_아키텍처.png)
+
+</div>
 
 ## 📄 산출물
 
