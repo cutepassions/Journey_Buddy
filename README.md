@@ -84,7 +84,7 @@ Visual Studio Code&logoColor=white" />
 
 <div align="center">
 
-| <b>로그인</b>                            |
+| 로그인                                   |
 | ---------------------------------------- |
 | ![로그인 이미지](/readme_img/로그인.png) |
 
