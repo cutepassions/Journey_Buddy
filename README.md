@@ -1,4 +1,8 @@
+<div align="center">
+
 # 🛬 우리들의 여행 친구 Journey Buddy !!! 🛫
+
+</div>
 
 ![메인화면](readme_img/index.png)
 
