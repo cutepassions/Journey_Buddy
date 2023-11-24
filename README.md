@@ -80,28 +80,40 @@ Visual Studio Code&logoColor=white" />
 
 ![ERD-Diagram](/readme_img/DB/ERD%20Diagram.png)
 
-## Class Diagram
+## 상세 기능
 
-### attraction (관광지)
+<div align="center">
 
-![attraction](/readme_img/Class_Diagram/class_diagram_01.PNG)
+| 로그인                                   |
+| ---------------------------------------- |
+| ![로그인 이미지](/readme_img/로그인.png) |
 
-### noitce (공지사항)
+| 회원가입                                     |
+| -------------------------------------------- |
+| ![회원가입 이미지](/readme_img/회원가입.png) |
 
-![notice](/readme_img/Class_Diagram/class_diagram_03.PNG)
+| 공지사항                                     |
+| -------------------------------------------- |
+| ![공지사항 이미지](/readme_img/공지사항.png) |
 
-### hotplace (핫 플레이)
+| 여행 게획 리스트                       |
+| -------------------------------------- |
+| ![여행 게획](/readme_img/여행계획.png) |
 
-![notice](readme_img/Class_Diagram/class_diagram_04.PNG)
+| 관광지                                   |
+| ---------------------------------------- |
+| ![관광지 이미지](/readme_img/관광지.png) |
 
-### plan (여행 계획)
+| 여행지 추가                                       |
+| ------------------------------------------------- |
+| ![여행지 추가 이미지](readme_img/여행지_추가.png) |
 
-![plan](readme_img/Class_Diagram/class_diagram_05.PNG)
+| 핫플레이스 등록                                           |
+| --------------------------------------------------------- |
+| ![핫플레이스 등록 이미지](readme_img/핫플레이스_등록.png) |
 
-### user (사용자)
+| 핫플레이스 상세보기                                               |
+| ----------------------------------------------------------------- |
+| ![핫플레이스 상세보기 이미지](readme_img/핫플레이스_상세보기.png) |
 
-![user](readme_img/Class_Diagram/class_diagram_06.PNG)
-
-### etc (기타 설정 파일)
-
-![etc](/readme_img/Class_Diagram/class_diagram_02.PNG)
+</div>
